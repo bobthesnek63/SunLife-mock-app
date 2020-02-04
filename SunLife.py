@@ -91,3 +91,5 @@ while running:
                 display = 0
 
     pygame.display.flip()
+
+pygame.quit()
